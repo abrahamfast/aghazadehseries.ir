@@ -3,9 +3,11 @@
     <head>
         <meta charset="utf-8">
         <title>
-            Wox - Photography Portfolio Template
+            سریال آقا زاده 
         </title>
-        <meta content="" name="description">
+        <meta content="طراح، نویسنده و تهیه کننده: حامد عنقا
+کارگردان: بهرنگ توفیقی
+به زودی از شبکه نمایش خانگی " name="description">
         <meta content="" name="author">
         <meta content="" name="keywords">
         <meta content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
